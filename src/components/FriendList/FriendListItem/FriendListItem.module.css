@@ -1,0 +1,25 @@
+.item {
+  display: flex;
+
+  width: 200px;
+
+  border: 1px solid burlywood;
+}
+
+.isOnline {
+  display: block;
+  width: 10px;
+  height: 10px;
+
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 10px;
+  margin-left: 10px;
+
+  border-radius: 50%;
+  background-color: green;
+}
+
+.false {
+  background-color: red;
+}

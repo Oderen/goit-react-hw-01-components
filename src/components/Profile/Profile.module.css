@@ -1,0 +1,40 @@
+.profile {
+  width: 300px;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+
+  border: 1px solid red;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  padding: 10px;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+
+  border: 1px solid black;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+
+  padding: 10px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+
+  margin-right: 10px;
+}

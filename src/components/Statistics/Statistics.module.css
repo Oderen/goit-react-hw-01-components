@@ -1,0 +1,25 @@
+.statistics {
+  width: 400px;
+  text-align: center;
+  padding: 10px;
+
+  margin: 15px auto;
+
+  border: 1px solid red;
+}
+
+.statList {
+  display: flex;
+  justify-content: center;
+
+  padding: 0px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+
+  padding: 1px;
+
+  border: 1px solid purple;
+}
